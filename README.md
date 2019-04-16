@@ -14,3 +14,12 @@ More details of the assignment can be found [here](https://bitbucket.org/CMU1682
 
 ### Tensorboard logs
 ![Tensorboard logs](report/image_1.png)
+
+### Tensorboard images and heatmaps
+![Tensorboard images and heatmaps](report/image_2.png)
+
+### Visdom images and heatmaps
+![Visdom images and heatmaps](report/image_3.png)
+
+### Tensoboard images with bounding boxes
+![Tensoboard images with bounding boxes](report/image_4.png)
