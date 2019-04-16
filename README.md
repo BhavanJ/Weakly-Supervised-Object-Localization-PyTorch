@@ -10,3 +10,7 @@ This assignment is on training object detectors in the weakly supervised setting
 The report folder contains the assignment [report](https://github.com/BhavanJ/Weakly-Supervised-Object-Localization-PyTorch/blob/master/report/HW2_VLR_bjasani.pdf) with all the results.
 
 More details of the assignment can be found [here](https://bitbucket.org/CMU16824Spring18/hw2-release).
+
+
+### Tensorboard logs
+![Tensorboard logs](report/image_1.png)
